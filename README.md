@@ -1,4 +1,5 @@
-# Forex_EUR_USD_Predictions
+# MACHINE LEARNING MODELS
+# Forex EUR_USD Predictions
 
 # 📝 Description
 This project aims to apply machine learning techniques for time series forecasting using historical EUR/USD Forex data. The data spans from 2002 to 2019 and captures essential market movements over 17 years.
@@ -43,21 +44,19 @@ EUR/USD Forex Historical Data 2002–2019 - Kaggle : https://www.kaggle.com/data
 - Pydot (pydot) : Allows the creation and rendering of graphs and diagrams, often used for visualizing deep learning model architectures.
 
 # 📊 Approach
-Data Preprocessing: Cleaning and preparing the dataset for modeling.
+- Data Preprocessing: Cleaning and preparing the dataset for modeling.
 
-Exploratory Data Analysis (EDA): Visualizing trends, seasonality, and correlations.
+- Exploratory Data Analysis (EDA): Visualizing trends, seasonality, and correlations.
 
-Feature Engineering: Creating additional relevant features.
+- Feature Engineering: Creating additional relevant features.
 
-Model Building:
+- Model Building: Traditional ML models (e.g., Linear Regression, Random Forest)
 
-Traditional ML models (e.g., Linear Regression, Random Forest)
+- Time Series models (e.g., ARIMA, LSTM)
 
-Time Series models (e.g., ARIMA, LSTM)
+- Model Evaluation: Measuring performance with MAE, RMSE, etc.
 
-Model Evaluation: Measuring performance with MAE, RMSE, etc.
-
-Forecasting: Making predictions and plotting future trends.
+- Forecasting: Making predictions and plotting future trends.
 
 # 📌 Important Note
 Accurately predicting market behavior remains an unattainable goal, whether using fundamental analysis, technical analysis, or machine learning techniques.
@@ -67,7 +66,8 @@ Nevertheless, I hope this project provides you with meaningful insights and a de
 # 📥 How to Run
 Clone the repository: git clone https://github.com/Bayu-Prasetyo0301/Forex_EUR_USD_Predictions.git
 
-# Navigate into the project directory: cd Forex_EUR_USD_Predictions
+# Navigate into the project directory: 
+cd Forex_EUR_USD_Predictions
 
 # Install dependencies, then Open and run the Jupyter Notebooks.
 
