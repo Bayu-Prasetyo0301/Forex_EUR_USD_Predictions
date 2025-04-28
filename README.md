@@ -1,4 +1,4 @@
-# MACHINE LEARNING MODELS : Forex EUR_USD Predictions
+# MACHINE LEARNING MODELS : Forex EUR USD Predictions
 
 # 📝 Description
 This project aims to apply machine learning techniques for time series forecasting using historical EUR/USD Forex data. The data spans from 2002 to 2019 and captures essential market movements over 17 years.
